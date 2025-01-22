@@ -69,5 +69,5 @@ This project is a **Tic-Tac-Toe** game built using the **MERN stack** (MongoDB, 
 ### Steps to Run Locally
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/tic-tac-toe-mern.git
+   git clone https://github.com/sarvesh-raikar-git/tic-tac-toe-mern.git
    cd tic-tac-toe-mern
