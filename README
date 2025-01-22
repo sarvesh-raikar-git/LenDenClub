@@ -1,4 +1,4 @@
-# Tic-Tac-Toe MERN Stack Project
+# Tic-Tac-Toe MERN Stack Project.
 
 ## Overview
 This project is a **Tic-Tac-Toe** game built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It includes user authentication, game functionality, and game history tracking. The goal was to create a functional and scalable application with a clean user interface.
