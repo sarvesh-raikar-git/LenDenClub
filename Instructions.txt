@@ -1,0 +1,64 @@
+# Tic-Tac-Toe MERN Application
+
+## Overview
+This project is a **Tic-Tac-Toe game** built using the MERN (MongoDB, Express, React, Node.js) stack. It includes:
+- **User Authentication**: Registration and Login.
+- **Game Board**: Play Tic-Tac-Toe.
+- **Game History**: View previously played games.
+
+following provides step-by-step instructions for setting up the backend and frontend, along with deployment guidance.
+
+---
+
+## Prerequisites
+Ensure the following tools are installed on your system:
+- Node.js
+- npm
+- MongoDB
+
+---
+
+## Backend Setup
+
+### 1. Clone the Repository
+''' bash
+git clone <repository-url>
+cd <repository-folder>/server
+
+## Backend Setup
+
+### 2. Install Backend Dependencies
+Run the following command to install required Node.js packages:
+```bash
+npm install
+
+### 3. configure environment variables
+Create a .env file in the server directory with the following content:
+
+```bash
+PORT=5000
+MONGO_URI=<your-mongodb-connection-string>
+JWT_SECRET=<your-secret-key>
+
+## Frontend Setup
+
+### 1. navigate to client folder
+```bash
+cd ../client
+
+### 2. install frontend Dependencies
+run the following command to install nodejs package
+```bash
+npm install
+
+### 3. Start the frontend server
+Start the frontend development server using :
+```bash
+npm start
+
+
+
+
+
+
+
